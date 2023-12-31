@@ -13,6 +13,6 @@ function timeout(){
 }
 timeout();
 */
-(function(){
-    console.log('Immediate Invoked Funtion Expression','IIFE');
-})();
+// (function(){
+//     console.log('Immediate Invoked Funtion Expression','IIFE');
+// })();
